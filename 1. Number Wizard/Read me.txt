@@ -2,9 +2,15 @@ This is a read me file .Please go through it before playing the game.
 
 
 ##IMPORTANT
-	######## This game is developed by the company glixverse ########
+	######## This game is developed by the company GLINXVERSE ########
+	
+##INSTRUCTIONS
+	It is a simple nnumber guess making game.
+	Currently there will be only android build of the game.
+	If want another build please contact
 
 Game is designed and created by Harshit Bargujar
 Software used are->
 	Unity game engine 2019.3.0b1
-All rights are reserved .
+	
+@All rights are reserved .
